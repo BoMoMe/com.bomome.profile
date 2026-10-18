@@ -1,0 +1,7 @@
+{
+  "name": "Bomome.Profile.Tests",
+  "references": [ "Bomome.Profile", "Bomome.Core", "Bomome.Persistence" ],
+  "includePlatforms": [ "Editor" ],
+  "optionalUnityReferences": [ "TestAssemblies" ],
+  "autoReferenced": false
+}

@@ -1,0 +1,12 @@
+{
+  "name": "com.bomome.profile",
+  "version": "0.1.0",
+  "displayName": "Bomome Profile",
+  "description": "Local player identity, configurable name validation and avatars, save-backed state and notifications. UI and game progression stay in the consumer.",
+  "unity": "6000.4",
+  "author": { "name": "Bomome" },
+  "dependencies": {
+    "com.bomome.core": "1.1.2",
+    "com.bomome.persistence": "1.0.0"
+  }
+}

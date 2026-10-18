@@ -1,0 +1,6 @@
+{
+  "name": "Bomome.Profile",
+  "rootNamespace": "Bomome.Profile",
+  "references": [ "Bomome.Core", "Bomome.Persistence" ],
+  "autoReferenced": true
+}
